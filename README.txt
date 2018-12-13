@@ -1,0 +1,1 @@
+This project is my first spring app.Step one configure my Spring beans,step two create a Spring container,step three retrieve bean from Spring container
